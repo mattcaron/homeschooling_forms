@@ -1,2 +1,3 @@
-# homeschooling_forms
-Forms related to homeschooling.
+# Homeschooling Forms
+
+A collection of LaTeX forms for use in homeschooling in New York State.
